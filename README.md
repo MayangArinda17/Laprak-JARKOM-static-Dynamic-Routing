@@ -9,9 +9,7 @@ Topologi Routing Static di Packet Tracer
 
 
 
-![image](https://github.com/MayangArinda17/Laprak-JARKOM-static-Dynamic-Routing/assets/150981696/68378fd9-ebf6-4b94-9625-d3f706867b3b)
-
-
+![image](https://github.com/MayangArinda17/Laprak-JARKOM-static-Dynamic-Routing/assets/150981696/8ce8bb1a-5a74-4bf2-8128-b892864e973e)
 
 
 
@@ -27,6 +25,22 @@ konfigurasi routing static pada setiap router ROUTER_I
 
 
 
-![image](https://github.com/MayangArinda17/Laprak-JARKOM-static-Dynamic-Routing/assets/150981696/dd51bcaa-7382-4e8e-9f6a-7fd024c70e2e)
+![image](https://github.com/MayangArinda17/Laprak-JARKOM-static-Dynamic-Routing/assets/150981696/623fade3-ff47-41c0-8454-b4c092d6d48c)
+
+
+
+
+
+ROUTER_II
+
+
+
+
+
+
+
+
+![image](https://github.com/MayangArinda17/Laprak-JARKOM-static-Dynamic-Routing/assets/150981696/196c8a7c-c159-4319-b468-1f31ef6f2d59)
+
 
 
