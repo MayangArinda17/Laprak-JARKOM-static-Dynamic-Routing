@@ -186,6 +186,62 @@ verifikasi routing static pada setiap router ROUTER_I
 
 
 
+
+ Konfigurasi Routing Dinamic RIPv2 ROUTER_I 
+
+
+
+
+
+
+
+ ![image](https://github.com/MayangArinda17/Laprak-JARKOM-static-Dynamic-Routing/assets/150981696/449eac44-4c7a-416b-9101-3f8370e80165)
+
+
+
+
+
+
+
+
+ ROUTER_II
+
+
+
+
+
+
+
+
+ ![image](https://github.com/MayangArinda17/Laprak-JARKOM-static-Dynamic-Routing/assets/150981696/95c691a6-7a7c-48ef-85e8-429f9a6c591e)
+
+
+
+
+
+
+
+
+
+
+ ROUTER_III
+
+
+
+
+
+
+
+ ![image](https://github.com/MayangArinda17/Laprak-JARKOM-static-Dynamic-Routing/assets/150981696/ad7d8496-8563-4c0c-9557-99b4daf62790)
+
+
+
+
+
+
+
+
+
  
 
 
